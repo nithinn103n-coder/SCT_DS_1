@@ -71,11 +71,12 @@ The dataset is saved as:
    ```bash
    git clone https://github.com/nithinn103n-coder/SCT_DS_1.git
 
-cd SCT_DS_1
+    ```bash
+    cd SCT_DS_1
 
-pip install pandas numpy matplotlib seaborn
+    pip install pandas numpy matplotlib seaborn
 
-python task1.py
+    python task1.py
 
 
 ---
