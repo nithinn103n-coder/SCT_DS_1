@@ -70,15 +70,12 @@ The dataset is saved as:
 1. Clone the repository:
    ```bash
    git clone https://github.com/nithinn103n-coder/SCT_DS_1.git
-
-    ```bash
+---
     cd SCT_DS_1
-
+---
     pip install pandas numpy matplotlib seaborn
-
+---
     python task1.py
-
-
 ---
 
 If you want, I can also:
